@@ -1,4 +1,7 @@
 # Project UAS - Aplikasi Manajemen Penjualan
+
+##
+Link Vid : https://youtu.be/pwz0pgUWd1U
 ## Informasi
 - Nama : Jose Fisto
 - Nim : 312010119
